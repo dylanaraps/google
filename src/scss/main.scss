@@ -1,8 +1,44 @@
-h1 {
-	font-size: 1em;
-	color: blue;
+/* Google Css */
+html,
+body {
+	height: 100%;
 }
 
-body {
-	background: green;
+.logo {
+	margin: 0 auto 15px auto;
+	display: block;
+	width: 300px;
+	height: auto;
+}
+
+.search {
+	margin: 0 auto 15px auto;
+	display: block;
+	height: 20px;
+	width: 90%;
+	max-width: 400px;
+}
+
+.wrap {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.btn-wrap {
+	text-align: center;
+}
+
+.btn {
+	border: 1px solid;
+	border-color: #DDDDDD;
+	line-height: 25px;
+	margin: 0 auto;
+	display: inline-block;
+	text-align: center;
+	transition: .2s;
+
+	&:hover {
+		border-color: #AAAAAA;
+	}
 }

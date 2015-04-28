@@ -1,1 +1,1 @@
-h1{color:blue;font-size:1em}body{background:green}
+body,html{height:100%}.logo{display:block;height:auto;margin:0 auto 15px auto;width:300px}.search{display:block;height:20px;margin:0 auto 15px auto;max-width:400px;width:90%}.wrap{position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.btn-wrap{text-align:center}.btn{border:1px solid;border-color:#ddd;display:inline-block;line-height:25px;margin:0 auto;text-align:center;-webkit-transition:.2s;transition:.2s}.btn:hover{border-color:#aaa}
