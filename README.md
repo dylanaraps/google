@@ -1,6 +1,6 @@
 # Google
 
-## Remade the Google homepage for practice
+## Remade the Google homepage for an assignment
 
 
 
