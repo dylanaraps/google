@@ -1,6 +1,6 @@
-# My Blog
+# Google
 
-## This is the source to my blog
+## Remade the Google homepage for practice
 
 
 
