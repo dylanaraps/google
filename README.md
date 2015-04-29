@@ -12,4 +12,6 @@ Benefits of making it from scratch:
 
 ### Goals
 
-I'm happy with how the clone looks and I want to now focus on making the site functional. Meaning when you enter a search term it loads a real google page with the results.
+~~I'm happy with how the clone looks and I want to now focus on making the site functional. Meaning when you enter a search term it loads a real google page with the results.~~
+
+My clone is now functional!
