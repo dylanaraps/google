@@ -53,7 +53,7 @@ body {
 	max-width: 400px;
 	padding: 0 5px 0 5px;
 	transition: .2s;
-	width: 90%;
+	width: 90vw;
 
 	&:focus,
 	&:hover	{
@@ -141,7 +141,7 @@ li {
 	}
 
 	.vertical-center {
-		margin-bottom: 20%;
+		margin-bottom: 20vh;
 	}
 }
 
