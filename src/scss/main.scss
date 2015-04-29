@@ -67,9 +67,8 @@ body {
 
 .btn {
 	background: #FFFFFF;
-	border-color: #DDDDDD;
 	border-radius: 2px;
-	border: 1px solid;
+	border: 1px solid #DDDDDD;
 	display: inline-block;
 	line-height: 26px;
 	margin: 0 auto;
@@ -88,10 +87,10 @@ nav {
 }
 
 footer {
-	height: 45px;
+	height: 5.5vh;
 
 	li {
-		line-height: 45px;
+		line-height: 5.5vh;
 	}
 }
 
@@ -124,7 +123,7 @@ li {
 
 @media only screen and (max-width: 30em) {
 	footer {
-		height: 75px;
+		height: 10vh;
 
 		ul {
 			display: block;
