@@ -35,11 +35,9 @@ body {
 }
 
 .logo {
+	display: block;
 	height: auto;
-	left: 50%;
-	margin-bottom: 10px;
-	position: relative;
-	transform: translateX(-50%);
+	margin:0 auto 10px auto;
 	width: 300px;
 }
 
