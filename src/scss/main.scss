@@ -76,7 +76,8 @@ body {
 	text-align: center;
 	transition: .2s;
 
-	&:hover {
+	&:hover,
+	&:focus	{
 		border-color: #AAAAAA;
 		cursor: pointer;
 	}
@@ -92,25 +93,16 @@ footer {
 	li {
 		line-height: 45px;
 	}
-
-	a {
-		color: #666666;
-
-		&:hover {
-			color: #666666;
-		}
-	}
 }
 
 a {
-	color: #222222;
+	color: #666666;
 	font-weight: normal;
 	text-decoration: none;
-	transition: .5s;
 
 	&:hover {
 		border-bottom: 1px solid;
-		color: #000000;
+		color: #666666;
 	}
 }
 
