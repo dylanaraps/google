@@ -1,8 +1,8 @@
 /* Google Css */
 
-html,
 body,
 div,
+html,
 input,
 ul {
 	border: none;
@@ -18,8 +18,8 @@ body {
 
 .site {
 	display: flex;
-	min-height: 100vh;
 	flex-direction: column;
+	min-height: 100vh;
 }
 
 .site-content {
@@ -67,8 +67,8 @@ body {
 .btn {
 	background: #FFFFFF;
 	border-color: #DDDDDD;
-	border: 1px solid;
 	border-radius: 2px;
+	border: 1px solid;
 	display: inline-block;
 	font-size: .8em;
 	line-height: 26px;
