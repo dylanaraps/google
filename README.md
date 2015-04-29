@@ -1,5 +1,7 @@
 ## Remake of Google.com in HTML/SCSS
 
+### Live Here: http://therealvdeadline.github.io/google
+
 I recreated google's homepage for an assignment on http://www.theodinproject.com/
 
 I'm aware that the site isn't an exact clone of google's homepage, I didn't want to make it an exact copy. I wanted to change the way parts of the page looked.
