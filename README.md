@@ -1,6 +1,10 @@
 ## Remake of Google.com in HTML/SCSS
 
-I'm remaking google's homepage for an assignment on http://www.theodinproject.com/
+I recreated google's homepage for an assignment on http://www.theodinproject.com/
+
+I'm aware that the site isn't an exact clone of google's homepage, I didn't want to just hit F12 and copy all the styles.
+
+Benefits of making it from scratch:
 
 * **Uses Flexbox** I've used flexbox to center the content and keep the footer stuck to the bottom.
 
