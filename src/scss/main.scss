@@ -1,5 +1,7 @@
 /* Google Css */
+/* By Dylan Araps */
 
+/*  Reset */
 body,
 div,
 html,
@@ -80,8 +82,6 @@ body {
 	}
 }
 
-/* [Nav Styles] */
-
 nav {
 	height: 50px;
 }
@@ -115,7 +115,7 @@ a {
 }
 
 ul {
-	display: inline; // Needed for the footer
+	display: inline; /*  Needed for the footer */
 	list-style: none;
 	margin-right: 30px;
 }
@@ -126,7 +126,7 @@ ul {
 
 li {
 	display: inline;
-	line-height: 50px; // Set to same height as container for vertical centering
+	line-height: 50px; /*  Set to same height as container for vertical centering */
 	margin-left: 20px;
 }
 
