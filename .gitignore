@@ -2,4 +2,3 @@
 *.swp
 *.swo
 *.sass-cache*
-gulpfile.coffee
