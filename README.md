@@ -16,4 +16,4 @@ Benefits of making it from scratch:
 
 My clone is now functional!
 
-### Live Here: http://therealvdeadline.github.io/google
+### Live Here: http://dylanaraps.github.io/google
